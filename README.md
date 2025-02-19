@@ -28,7 +28,6 @@ For more details, check out the [full release notes](https://github.com/naufalF2
 
 ## Features
 - User authentication (login, register, logout).
-- Profile management.
 - Responsive and user-friendly interface.
 
 ---

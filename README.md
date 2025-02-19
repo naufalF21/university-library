@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# University Library Website
 
-## Getting Started
+Welcome to the University Library Website! This project provides a platform for students and staff to manage their library accounts, including login, registration, and profile management.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Latest Release
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The latest stable version of the project is **v1.0.0**.  
+You can access the live website here: [University Library Website](https://university-library-nine-theta.vercel.app/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Release Notes for v1.0.0
+- **Login**: Users can log in to their accounts using their email and password.
+- **Register**: New users can create an account by providing their details.
+- **Logout**: Users can securely log out of their accounts.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+For more details, check out the [full release notes](https://github.com/naufalF21/university-library/releases/tag/v1.0.0).
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Support](#support)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Features
+- User authentication (login, register, logout).
+- Profile management.
+- Responsive and user-friendly interface.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Installation
+To set up the project locally, follow these steps:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/naufalF21/university-library.git
+
+---
+
+## Usage
+1. **Register**: Create a new account using the registration form.
+2. **Login**: Use your credentials to log in to the website.
+3. **Logout**: Securely log out when you're done.
+
+---
+
+## Support
+For questions or support, please open an issue on the [GitHub repository](https://github.com/naufalF21/university-library/issues) or contact the development team.
+
+Thank you for using the University Library Website! 🚀
